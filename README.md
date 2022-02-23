@@ -52,6 +52,9 @@
 You should copy the original backup in a safe location in case you need to restore your device with the original content.
 
 # References
+* Youtube Video
+    + https://youtu.be/TG86BXtYbbo
+    
 * Backup encryption and decryption
     + https://github.com/avibrazil/iOSbackup
 

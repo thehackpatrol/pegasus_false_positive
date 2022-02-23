@@ -1,0 +1,2 @@
+peewee~=3.14.8
+pycrypto~=2.6.1

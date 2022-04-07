@@ -55,6 +55,9 @@ You should copy the original backup in a safe location in case you need to resto
 * Vimeo Video
     + https://vimeo.com/696991504
     
+* Bitchute Video
+    + https://www.bitchute.com/video/YI8cjoKzNcUL/
+    
 * Backup encryption and decryption
     + https://github.com/avibrazil/iOSbackup
 

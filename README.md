@@ -52,6 +52,11 @@
 You should copy the original backup in a safe location in case you need to restore your device with the original content.
 
 # References
+* Medium
+    + [Getting Pegasus False Positives](https://medium.com/@thehackpatrol/getting-pegasus-false-positives-53f670bbde35)
+    + [Tampering iOS backups](https://medium.com/@thehackpatrol/tampering-ios-backups-6e9cfc9c753d)
+    + [Modifying iOS SMS database](https://medium.com/@thehackpatrol/modifying-ios-sms-database-93a3f64f8c94)
+    
 * Vimeo Video
     + https://vimeo.com/696991504
     
